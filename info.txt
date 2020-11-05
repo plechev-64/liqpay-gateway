@@ -1,0 +1,8 @@
+Name: LiqPay Gateway;
+Parent Addon: user-balance;
+Version: 1.2.3;
+Support Core: 16.24.0;
+ItemID: 13713;
+Description: Подключение сайта к платежному агрегатору LIQPAY https://www.liqpay.com
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
